@@ -1,0 +1,17 @@
+{
+  "name": "info-trafic-alexa-skill",
+  "version": "0.0.1",
+  "description": "RATP info trafic Alexa Skill ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "alexa-app": "^4.2.2",
+    "express": "^4.16.3",
+    "unirest": "^0.5.1"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
